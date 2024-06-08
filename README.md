@@ -27,7 +27,11 @@ Email Notifications:
 
 Users receive email notifications for account balance updates and acknowledgment of each transaction, ensuring they are always informed about their orders.
 
-Admin Dashboard:
+Admin Dashboard: 
+
+## ( admin123@gmail.com and password is admin777 )
 
 Administrators have a dedicated dashboard to manage user accounts, verify user information, and approve or reject booking requests.
 Admins can also post notices that are visible to all users, providing important updates and information.
+
+
